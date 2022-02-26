@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC4_Sprint1_Verify that payees can be sorted by name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4285e0e9-f67f-40bd-8286-dc8b1d6ed566</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fdddb0ee-9ac9-488f-b3dc-ac6243f4c4a6</id>
+      <masked>false</masked>
+      <name>menu_var</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f52dba0c-9f1f-45d9-8f87-55e2de999349</id>
+      <masked>false</masked>
+      <name>payeeName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d5d65b07-badd-4c05-a75c-3c8c85bb4329</id>
+      <masked>false</masked>
+      <name>accountBank</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>74bd2f25-7986-4946-89c2-bc3878d9ee34</id>
+      <masked>false</masked>
+      <name>accountBranch</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c53292cb-fc4a-4db3-9d73-294a32551211</id>
+      <masked>false</masked>
+      <name>accountAccount</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>573c00e4-af4b-4c83-95e7-af948db38652</id>
+      <masked>false</masked>
+      <name>accountSuffix</name>
+   </variable>
+</TestCaseEntity>

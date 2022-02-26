@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PayOrTransfer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>25d1ec65-5313-494c-b335-26c7383c80fd</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4d4ba00f-6227-469d-a00b-1d98364ab36f</id>
+      <masked>false</masked>
+      <name>from</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ab669805-123c-4e68-bd28-e2cb335a7f4f</id>
+      <masked>false</masked>
+      <name>to</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4a8fbc5a-0a30-4ab4-982a-d186068c2909</id>
+      <masked>false</masked>
+      <name>amount</name>
+   </variable>
+</TestCaseEntity>

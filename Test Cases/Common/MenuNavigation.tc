@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MenuNavigation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>253af9c3-f9e9-45fa-bbc3-51e2ba15bb37</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6bfe46a4-267b-4fc9-b48e-202c23c6b7e7</id>
+      <masked>false</masked>
+      <name>menu_var</name>
+   </variable>
+</TestCaseEntity>

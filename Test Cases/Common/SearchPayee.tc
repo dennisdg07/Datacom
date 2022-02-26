@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SearchPayee</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>094d6c85-cf50-4010-a88d-4a139ee179ff</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>17a42926-e156-4314-945e-1722ba012052</id>
+      <masked>false</masked>
+      <name>searchPayee</name>
+   </variable>
+</TestCaseEntity>

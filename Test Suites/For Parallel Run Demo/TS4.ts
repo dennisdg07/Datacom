@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS4</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>ff7877f7-2f91-4ffc-a801-3f7930ed4ece</testSuiteGuid>
+   <testCaseLink>
+      <guid>97ee4847-9af3-4433-8383-28f7046d0d10</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Sprint1/TC4_Sprint1_Verify that payees can be sorted by name</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>248f08ee-6adb-4dea-bfe1-2f9bfd99d056</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Sprint 1/TC4_Sprint1_Verify that payees can be sorted by name</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>248f08ee-6adb-4dea-bfe1-2f9bfd99d056</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>menu_var</value>
+         <variableId>fdddb0ee-9ac9-488f-b3dc-ac6243f4c4a6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>248f08ee-6adb-4dea-bfe1-2f9bfd99d056</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>payeeName</value>
+         <variableId>f52dba0c-9f1f-45d9-8f87-55e2de999349</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>248f08ee-6adb-4dea-bfe1-2f9bfd99d056</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>accountBank</value>
+         <variableId>d5d65b07-badd-4c05-a75c-3c8c85bb4329</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>248f08ee-6adb-4dea-bfe1-2f9bfd99d056</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>accountBranch</value>
+         <variableId>74bd2f25-7986-4946-89c2-bc3878d9ee34</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>248f08ee-6adb-4dea-bfe1-2f9bfd99d056</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>accountAccount</value>
+         <variableId>c53292cb-fc4a-4db3-9d73-294a32551211</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>248f08ee-6adb-4dea-bfe1-2f9bfd99d056</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>accountSuffix</value>
+         <variableId>573c00e4-af4b-4c83-95e7-af948db38652</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

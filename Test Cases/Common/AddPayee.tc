@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AddPayee</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b14481a2-8fa7-4910-b1e2-a3c3416258d2</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>97864646-2c89-45b6-8567-790ff77bfd03</id>
+      <masked>false</masked>
+      <name>payeeName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5f7b7a37-6e60-4200-95f6-a3268bcecad9</id>
+      <masked>false</masked>
+      <name>accountBank</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9410f569-6147-4eaa-b09e-4aa73e6cbdc6</id>
+      <masked>false</masked>
+      <name>accountBranch</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a98420a7-1001-411e-be4b-583bbdd624d9</id>
+      <masked>false</masked>
+      <name>accountAccount</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b70c6401-df57-4729-9197-35afcaf1815e</id>
+      <masked>false</masked>
+      <name>accountSuffix</name>
+   </variable>
+</TestCaseEntity>

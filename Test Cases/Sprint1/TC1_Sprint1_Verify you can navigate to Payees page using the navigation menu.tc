@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify you can navigate to Payees page using the navigation menu</description>
+   <name>TC1_Sprint1_Verify you can navigate to Payees page using the navigation menu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8fa92605-f17f-4a97-843c-e3c0e12e4c7c</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>928d8915-ab66-4f08-bef4-573e687dcaf8</id>
+      <masked>false</masked>
+      <name>menu_var</name>
+   </variable>
+</TestCaseEntity>

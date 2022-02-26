@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GetCurrrentAccountBalance</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5044370d-47fe-4425-98db-b50dc14b2ac6</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>db1d1c88-5edd-4da1-81e3-9158ed07e8e5</id>
+      <masked>false</masked>
+      <name>accountName</name>
+   </variable>
+</TestCaseEntity>

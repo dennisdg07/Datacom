@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC2_Sprint1_API_Verify GET User request by Id</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c1a1a129-3317-456a-9db8-d23e1fa63ae0</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3c83adfc-4e87-4528-8b63-3067a24cfbe7</id>
+      <masked>false</masked>
+      <name>id</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>192404bf-f005-4566-9efe-577fd85a8532</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+</TestCaseEntity>

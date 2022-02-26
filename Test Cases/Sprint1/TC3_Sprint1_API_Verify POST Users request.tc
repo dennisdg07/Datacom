@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC3_Sprint1_API_Verify POST Users request</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7b60d940-0b21-4d08-b067-840bfa6cdbf6</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>93fdecf2-08cd-4027-98e5-e002f0c1c454</id>
+      <masked>false</masked>
+      <name>title</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bac8b345-0522-4ee3-8cec-3e47cfeff42b</id>
+      <masked>false</masked>
+      <name>body</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bc96364a-8147-430b-aa59-59cc7ad4c6fa</id>
+      <masked>false</masked>
+      <name>userId</name>
+   </variable>
+</TestCaseEntity>
